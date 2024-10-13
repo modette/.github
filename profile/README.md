@@ -10,6 +10,9 @@
 A Live Sandboxv In XR <br> On-Top Of Godot 4.x
 </p>
 
+Moddete hopes to become a spatial-computing platform built on-top of Godot. 
+A little of that, with a bit of Gmod, and... you get pretty close to what we're shooting for. 
+
 <div align="center">
   <a href="https://modette.github.io/">Website</a> |
   <a href="https://discord.gg/bxwc8AtdAm">Discord</a> |
