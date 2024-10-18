@@ -21,7 +21,44 @@ A Live Sandboxv In XR <br> On-Top Of Godot 4.x
 
 ---
 
-socials
+<div align="center">
+  <!-- Platforms related to development -->
+  <a href="https://sidequestvr.com">
+    <img src="_res/brands/vr-cardboard-solid.svg" alt="SideQuest VR" width="32" height="32">
+  </a>
+  <a href="https://godotengine.org/asset-library/asset?user=modette_dev">
+    <img src="_res/brands/cube-solid.svg" alt="Godot Engine" width="32" height="32">
+  </a>
+  <a href="https://modette.itch.io">
+    <img src="_res/brands/itch-io-brands-solid.svg" alt="Itch.io" width="32" height="32">
+  </a>
+
+  <!-- Social media platforms -->
+  <a href="https://www.twitch.tv/modette_dev">
+    <img src="_res/brands/twitch-brands-solid.svg" alt="Twitch" width="32" height="32">
+  </a>
+  <a href="https://instagram.com/modette_dev">
+    <img src="_res/brands/instagram-brands-solid.svg" alt="Instagram" width="32" height="32">
+  </a>
+  <a href="https://tiktok.com/modette_dev">
+    <img src="_res/brands/tiktok-brands-solid.svg" alt="TikTok" width="32" height="32">
+  </a>
+  <a href="https://youtube.com/@modette_dev">
+    <img src="_res/brands/youtube-brands-solid.svg" alt="YouTube" width="32" height="32">
+  </a>
+
+  <!-- Funding/support platforms -->
+  <a href="https://patreon.com/modette_dev">
+    <img src="_res/brands/patreon-brands-solid.svg" alt="Patreon" width="32" height="32">
+  </a>
+  <a href="https://www.github.com/sponsors/modette">
+    <img src="_res/brands/heart-solid.svg" alt="GitHub Sponsors" width="32" height="32">
+  </a>
+</div>
+
+
+
+
 
 ---
 
