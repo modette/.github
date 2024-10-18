@@ -13,6 +13,7 @@ A Live Sandboxv In XR <br> On-Top Of Godot 4.x
 </p>
 
 <div align="center">
+  <a href="https://github.com/modette/.github/wiki)">The Wiki</a> |
   <a href="https://modette.github.io/">Website</a> |
   <a href="https://discord.gg/vHeM7JuGC5">Discord</a> |
   <a href="add-github-sponsors-link">Support</a>
