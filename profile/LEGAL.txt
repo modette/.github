@@ -1,0 +1,3 @@
+Files in `_res/brands/` are from the Fontawesome project: https://fontawesome.com/
+
+And as-per their terms, Icons are distributed under the CC-BY 4.0 License.
