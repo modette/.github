@@ -24,3 +24,19 @@ Moddete hopes to become a spatial-computing platform built on-top of Godot.
 A little of that, with a bit of Gmod, and... you get pretty close to what we're shooting for. 
 
 ---
+<div align="center">
+
+| Modette Projects                                     |
+|:----------------------------------------------------:|
+| These are notable projects in the Modette ecosystem |
+
+</div>
+
+<div align="center">
+
+| Name             | Description                       |
+|:----------------:|:----------------------------------|
+| [modot](https://github.com/modette/modot)            | Distribution of Godot with relevant modules x plugins shipped        |
+| [mapps](https://github.com/modette/mapps)            | Modette's "Applications": 'Holograms', Widgets, Etc        |
+
+</div>
