@@ -1,4 +1,4 @@
-<p align="center"><strong>STATUS: Quest 3S Acquired! <a href="https://modette.github.io/](https://communityforums.atmeta.com/t5/Get-Help/Physical-Keyboard-Settings-Missing-From-3S/td-p/1251793">Already Ran Into A Bug</a> Re: Keyboard Settings x Layouts! lol</strong></p>
+<p align="center"><strong>STATUS: Quest 3S Acquired! <a href="https://communityforums.atmeta.com/t5/Get-Help/Physical-Keyboard-Settings-Missing-From-3S/td-p/1251793">Already Ran Into A Bug</a> Re: Keyboard Settings x Layouts! lol</strong></p>
 
  <p align="center">
   <img src="_res/logo.png" alt="Modette Logo" width="240" height="240">
